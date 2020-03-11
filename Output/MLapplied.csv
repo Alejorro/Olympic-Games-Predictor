@@ -1,0 +1,204 @@
+,Host Country,Year,Region,Athlete,Sport,predict
+0,BRA,2020,Oman,4,2,1
+1,BRA,2020,Albania,6,3,1
+2,BRA,2020,Algeria,64,13,3
+3,BRA,2020,Andorra,4,4,0
+4,BRA,2020,Angola,26,7,0
+5,BRA,2020,Antigua,8,2,1
+6,BRA,2020,Argentina,215,26,29
+7,BRA,2020,Armenia,31,8,3
+8,BRA,2020,Aruba,7,4,0
+9,BRA,2020,Czech Republic,104,20,8
+10,BRA,2020,Australia,420,31,110
+11,BRA,2020,Azerbaijan,56,15,14
+12,BRA,2020,Bahamas,29,3,7
+13,BRA,2020,Bahrain,33,4,3
+14,BRA,2020,Bangladesh,7,5,1
+15,BRA,2020,Barbados,11,5,0
+16,BRA,2020,Belarus,120,22,13
+17,BRA,2020,Belgium,104,19,10
+18,BRA,2020,Belize,3,2,1
+19,BRA,2020,Benin,6,4,1
+20,BRA,2020,Bermuda,8,5,0
+21,BRA,2020,Austria,71,23,5
+22,BRA,2020,Afghanistan,3,2,1
+23,BRA,2020,Slovenia,63,12,7
+24,BRA,2020,Bhutan,2,2,1
+25,BRA,2020,Boliva,12,5,1
+26,BRA,2020,Brunei,3,2,1
+27,BRA,2020,Bulgaria,51,14,7
+28,BRA,2020,Burkina Faso,5,3,1
+29,BRA,2020,Burundi,9,3,1
+30,BRA,2020,Cambodia,6,4,1
+31,BRA,2020,Cameroon,22,6,5
+32,BRA,2020,Canada,310,31,41
+33,BRA,2020,Cape Verde,5,4,0
+34,BRA,2020,Cayman Islands,5,3,1
+35,BRA,2020,Central African Republic,6,4,0
+36,BRA,2020,Democratic Republic of the Congo,4,3,0
+37,BRA,2020,Chad,2,1,0
+38,BRA,2020,China,427,32,117
+39,BRA,2020,Colombia,143,21,10
+40,BRA,2020,Comoros,4,2,0
+41,BRA,2020,Cook Islands,9,5,0
+42,BRA,2020,Costa Rica,11,6,1
+43,BRA,2020,Croatia,85,18,24
+44,BRA,2020,Cuba,117,19,24
+45,BRA,2020,Cyprus,15,6,1
+46,BRA,2020,Botswana,12,3,1
+47,BRA,2020,Bosnia and Herzegovina,11,5,0
+48,BRA,2020,Chile,42,16,4
+49,BRA,2020,Brazil,462,34,127
+50,BRA,2020,Denmark,119,16,31
+51,BRA,2020,Hungary,153,20,26
+52,BRA,2020,Dominican Republic,26,11,2
+53,BRA,2020,Ecuador,37,12,2
+54,BRA,2020,Egypt,121,23,4
+55,BRA,2020,El Salvador,8,6,0
+56,BRA,2020,Equatorial Guinea,1,1,0
+57,BRA,2020,Eritrea,12,2,1
+58,BRA,2020,Estonia,46,13,3
+59,BRA,2020,Ethiopia,37,3,9
+60,BRA,2020,Fiji,53,10,9
+61,BRA,2020,Guyana,6,2,0
+62,BRA,2020,Finland,54,17,5
+63,BRA,2020,Gabon,6,4,1
+64,BRA,2020,Gambia,4,3,1
+65,BRA,2020,Georgia,40,12,5
+66,BRA,2020,Germany,418,29,140
+67,BRA,2020,Ghana,13,5,0
+68,BRA,2020,Greece,92,16,4
+69,BRA,2020,Grenada,6,2,1
+70,BRA,2020,Guam,5,3,1
+71,BRA,2020,Guatemala,21,10,0
+72,BRA,2020,Guinea,5,3,0
+73,BRA,2020,Dominica,2,1,1
+74,BRA,2020,Guinea-Bissau,5,3,1
+75,BRA,2020,Haiti,10,7,0
+76,BRA,2020,Liberia,2,1,1
+77,BRA,2020,Iceland,8,4,2
+78,BRA,2020,India,112,15,3
+79,BRA,2020,Individual Olympic Athletes,9,3,1
+80,BRA,2020,Indonesia,28,7,5
+81,BRA,2020,Iran,63,15,8
+82,BRA,2020,Iraq,20,5,1
+83,BRA,2020,Ireland,76,14,5
+84,BRA,2020,Israel,47,16,5
+85,BRA,2020,Italy,309,26,65
+86,BRA,2020,Honduras,23,7,1
+87,BRA,2020,Djibouti,7,3,1
+88,BRA,2020,Ivory Coast,12,6,1
+89,BRA,2020,Jordan,8,6,1
+90,BRA,2020,Kazakhstan,101,19,14
+91,BRA,2020,Kenya,79,7,14
+92,BRA,2020,Kiribati,3,2,1
+93,BRA,2020,Kosovo,8,5,1
+94,BRA,2020,Kyrgyzstan,19,6,1
+95,BRA,2020,Laos,5,4,1
+96,BRA,2020,Latvia,32,12,2
+97,BRA,2020,Lebanon,9,7,1
+98,BRA,2020,Jamaica,56,4,30
+99,BRA,2020,Japan,335,32,71
+100,BRA,2020,France,392,32,91
+101,BRA,2020,Lesotho,8,3,1
+102,BRA,2020,Libya,7,6,1
+103,BRA,2020,Lithuania,67,15,9
+104,BRA,2020,Madagascar,6,4,0
+105,BRA,2020,Malawi,5,3,0
+106,BRA,2020,Malaysia,32,10,6
+107,BRA,2020,Maldives,4,2,1
+108,BRA,2020,Mali,6,4,1
+109,BRA,2020,Malta,7,4,0
+110,BRA,2020,Marshall Islands,5,3,1
+111,BRA,2020,Mauritania,2,1,1
+112,BRA,2020,Mauritius,11,7,0
+113,BRA,2020,Mexico,123,27,10
+114,BRA,2020,Micronesia,5,3,1
+115,BRA,2020,Moldova,23,9,1
+116,BRA,2020,Monaco,3,3,0
+117,BRA,2020,Mongolia,43,9,3
+118,BRA,2020,Montenegro,35,7,10
+119,BRA,2020,Morocco,48,13,4
+120,BRA,2020,Mozambique,6,4,1
+121,BRA,2020,Myanmar,7,5,0
+122,BRA,2020,Namibia,10,4,1
+123,BRA,2020,Nepal,7,5,1
+124,BRA,2020,Rwanda,7,3,1
+125,BRA,2020,Nauru,2,2,1
+126,BRA,2020,Macedonia,6,4,1
+127,BRA,2020,Netherlands,237,23,58
+128,BRA,2020,Palau,5,4,0
+129,BRA,2020,Palestine,6,4,1
+130,BRA,2020,Pakistan,7,4,0
+131,BRA,2020,Nicaragua,5,4,1
+132,BRA,2020,North Korea,30,9,6
+133,BRA,2020,Nigeria,71,10,13
+134,BRA,2020,Niger,6,4,0
+135,BRA,2020,Panama,10,7,1
+136,BRA,2020,Norway,62,13,18
+137,BRA,2020,Papua New Guinea,8,6,1
+138,BRA,2020,Saint Kitts,6,1,0
+139,BRA,2020,Luxembourg,10,5,1
+140,BRA,2020,Philippines,13,8,1
+141,BRA,2020,Poland,234,24,15
+142,BRA,2020,Portugal,90,17,2
+143,BRA,2020,Puerto Rico,40,15,1
+144,BRA,2020,Qatar,37,10,2
+145,BRA,2020,Republic of Congo,10,5,1
+146,BRA,2020,Romania,95,15,23
+147,BRA,2020,New Zealand,195,20,30
+148,BRA,2020,Russia,284,29,113
+149,BRA,2020,Paraguay,11,7,2
+150,BRA,2020,Peru,29,11,1
+151,BRA,2020,American Samoa,4,3,1
+152,BRA,2020,South Korea,207,26,39
+153,BRA,2020,Tunisia,61,17,5
+154,BRA,2020,Sao Tome and Principe,3,2,1
+155,BRA,2020,Saudi Arabia,10,5,1
+156,BRA,2020,Senegal,22,8,0
+157,BRA,2020,Serbia,103,14,34
+158,BRA,2020,Seychelles,10,6,1
+159,BRA,2020,Sierra Leone,4,2,1
+160,BRA,2020,Slovakia,51,12,6
+161,BRA,2020,Zimbabwe,30,7,4
+162,BRA,2020,Saint Lucia,5,3,1
+163,BRA,2020,Zambia,7,4,1
+164,BRA,2020,"Virgin Islands, US",7,4,1
+165,BRA,2020,"Virgin Islands, British",4,2,1
+166,BRA,2020,Vietnam,22,10,1
+167,BRA,2020,Venezuela,85,20,4
+168,BRA,2020,Vanuatu,4,4,1
+169,BRA,2020,Uzbekistan,70,15,4
+170,BRA,2020,Uruguay,17,8,1
+171,BRA,2020,United Arab Emirates,12,6,1
+172,BRA,2020,Ukraine,204,24,20
+173,BRA,2020,Uganda,21,3,1
+174,BRA,2020,Yemen,3,3,0
+175,BRA,2020,San Marino,4,2,1
+176,BRA,2020,Samoa,8,5,0
+177,BRA,2020,USA,555,33,258
+178,BRA,2020,UK,360,26,64
+179,BRA,2020,Trinidad,28,8,4
+180,BRA,2020,Tonga,7,4,1
+181,BRA,2020,Togo,5,3,1
+182,BRA,2020,Timor-Leste,3,2,1
+183,BRA,2020,Thailand,54,15,6
+184,BRA,2020,Tanzania,7,3,1
+185,BRA,2020,Tajikistan,7,4,2
+186,BRA,2020,Taiwan,55,18,8
+187,BRA,2020,Syria,7,5,1
+188,BRA,2020,Switzerland,102,17,10
+189,BRA,2020,Saint Vincent,4,2,0
+190,BRA,2020,Sweden,150,22,24
+191,BRA,2020,Suriname,6,4,0
+192,BRA,2020,Sudan,6,3,1
+193,BRA,2020,Sri Lanka,9,6,0
+194,BRA,2020,Spain,307,28,56
+195,BRA,2020,South Sudan,3,1,1
+196,BRA,2020,South Africa,135,15,6
+197,BRA,2020,Liechtenstein,3,2,0
+198,BRA,2020,Somalia,2,1,1
+199,BRA,2020,Turkey,100,21,11
+200,BRA,2020,Turkmenistan,9,5,0
+201,BRA,2020,Swaziland,2,1,0
+202,BRA,2020,Solomon Islands,3,2,1
