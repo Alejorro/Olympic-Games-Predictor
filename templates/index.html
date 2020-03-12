@@ -1,0 +1,55 @@
+<h1 style="color: #5e9ca0;">Gu&iacute;a de la API</h1>
+<h2 style="color: #2e6c80;">&iquest;Qué hace la API?</h2>
+<p>La API proporciona predicciones sobre el medallero de cada pa&iacute;s participante en los pr&oacute;ximos Juegos Ol&iacute;mpicos de Tokio 2020.</p>
+<p>Adem&aacute;s tambi&eacute;n permite consultar gr&aacute;ficos y datos en bruto, entre otras funcionalidades.</p>
+<h2 style="color: #2e6c80;">Tecnolog&iacute;as empleadas:</h2>
+<ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold;">
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/01-interactive-connection.png" alt="interactive connection" width="45" /> Gr&aacute;ficos: Matplotlib, Seaborn, Plotly</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/02-html-clean.png" alt="html cleaner" width="45" /> Manipulaci&oacute;n de datos: Pandas</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/03-docs-to-html.png" alt="Word to html" width="45" />Contenedores: Docker y Heroku</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/04-replace.png" alt="replace text" width="45" />Creaci&oacute;n de API: Flask</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/05-gibberish.png" alt="gibberish" width="45" /> Machine Learning: H2O, SKlearn (Google Colab)</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/6-table-div-html.png" alt="html table div" width="45" /> Bases de datos: MongoDB</li>
+</ol>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<h2 style="color: #2e6c80;">Endpoints y opciones disponibles:</h2>
+<table class="editorDemoTable" style="height: 164px;" width="467">
+<thead>
+<tr>
+<td style="width: 109.2px;">Endpoint</td>
+<td style="width: 287.733px;">Funcionalidad</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 109.2px;">
+<div style="color: #333333; background-color: #f5f5f5; font-family: 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;">
+<div><span style="color: #448c27;">/plots/&lt;tipo&gt;</span></div>
+</div>
+</td>
+<td style="width: 287.733px;">Genera y muestra un gr&aacute;fico</td>
+</tr>
+<tr>
+<td style="width: 109.2px;">
+<div style="color: #333333; background-color: #f5f5f5; font-family: 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;">
+<div><span style="color: #448c27;">/data/&lt;tipo&gt;</span></div>
+</div>
+</td>
+<td style="width: 287.733px;">Genera y muestra un dataframe con html y css</td>
+</tr>
+<tr>
+<td style="width: 109.2px;">
+<div style="color: #333333; background-color: #f5f5f5; font-family: 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;">
+<div><span style="color: #448c27;">/predict/</span></div>
+</div>
+</td>
+<td style="width: 287.733px;"><span id="demoId">Otorga predicciones de medallero <br /></span></td>
+</tr>
+<tr>
+<td style="width: 109.2px;">&nbsp;</td>
+<td style="width: 287.733px;">params = country</td>
+<td style="width: 287.733px;">params = exportJson</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong><strong>&nbsp;</strong></p>

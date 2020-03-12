@@ -1,0 +1,204 @@
+,Host Country,Year,Region,Athlete,Sport,Medals,predict
+0,JPN,2020,Oman,4,2,0,1
+1,JPN,2020,Albania,6,3,0,1
+2,JPN,2020,Algeria,64,13,2,3
+3,JPN,2020,Andorra,4,4,0,0
+4,JPN,2020,Angola,26,7,0,0
+5,JPN,2020,Antigua,8,2,0,1
+6,JPN,2020,Argentina,215,26,22,29
+7,JPN,2020,Armenia,31,8,4,3
+8,JPN,2020,Aruba,7,4,0,0
+9,JPN,2020,Czech Republic,104,20,15,8
+10,JPN,2020,Australia,420,31,82,110
+11,JPN,2020,Azerbaijan,56,15,18,14
+12,JPN,2020,Bahamas,29,3,6,7
+13,JPN,2020,Bahrain,33,4,2,3
+14,JPN,2020,Bangladesh,7,5,0,1
+15,JPN,2020,Barbados,11,5,0,0
+16,JPN,2020,Belarus,120,22,12,13
+17,JPN,2020,Belgium,104,19,21,10
+18,JPN,2020,Belize,3,2,0,1
+19,JPN,2020,Benin,6,4,0,1
+20,JPN,2020,Bermuda,8,5,0,0
+21,JPN,2020,Austria,71,23,2,5
+22,JPN,2020,Afghanistan,3,2,0,1
+23,JPN,2020,Slovenia,63,12,4,7
+24,JPN,2020,Bhutan,2,2,0,1
+25,JPN,2020,Boliva,12,5,0,1
+26,JPN,2020,Brunei,3,2,0,1
+27,JPN,2020,Bulgaria,51,14,7,7
+28,JPN,2020,Burkina Faso,5,3,0,1
+29,JPN,2020,Burundi,9,3,1,1
+30,JPN,2020,Cambodia,6,4,0,1
+31,JPN,2020,Cameroon,22,6,0,5
+32,JPN,2020,Canada,310,31,69,41
+33,JPN,2020,Cape Verde,5,4,0,0
+34,JPN,2020,Cayman Islands,5,3,0,1
+35,JPN,2020,Central African Republic,6,4,0,0
+36,JPN,2020,Democratic Republic of the Congo,4,3,0,0
+37,JPN,2020,Chad,2,1,0,0
+38,JPN,2020,China,427,32,113,117
+39,JPN,2020,Colombia,143,21,8,10
+40,JPN,2020,Comoros,4,2,0,0
+41,JPN,2020,Cook Islands,9,5,0,0
+42,JPN,2020,Costa Rica,11,6,0,1
+43,JPN,2020,Croatia,85,18,24,24
+44,JPN,2020,Cuba,117,19,11,24
+45,JPN,2020,Cyprus,15,6,0,1
+46,JPN,2020,Botswana,12,3,0,1
+47,JPN,2020,Bosnia and Herzegovina,11,5,0,0
+48,JPN,2020,Chile,42,16,0,4
+49,JPN,2020,Brazil,462,34,50,127
+50,JPN,2020,Denmark,119,16,41,31
+51,JPN,2020,Hungary,153,20,22,26
+52,JPN,2020,Dominican Republic,26,11,1,2
+53,JPN,2020,Ecuador,37,12,0,2
+54,JPN,2020,Egypt,121,23,3,4
+55,JPN,2020,El Salvador,8,6,0,0
+56,JPN,2020,Equatorial Guinea,1,1,0,0
+57,JPN,2020,Eritrea,12,2,0,1
+58,JPN,2020,Estonia,46,13,4,3
+59,JPN,2020,Ethiopia,37,3,8,9
+60,JPN,2020,Fiji,53,10,13,9
+61,JPN,2020,Guyana,6,2,0,0
+62,JPN,2020,Finland,54,17,1,5
+63,JPN,2020,Gabon,6,4,0,1
+64,JPN,2020,Gambia,4,3,0,1
+65,JPN,2020,Georgia,40,12,7,5
+66,JPN,2020,Germany,418,29,159,140
+67,JPN,2020,Ghana,13,5,0,0
+68,JPN,2020,Greece,92,16,7,4
+69,JPN,2020,Grenada,6,2,1,1
+70,JPN,2020,Guam,5,3,0,1
+71,JPN,2020,Guatemala,21,10,0,0
+72,JPN,2020,Guinea,5,3,0,0
+73,JPN,2020,Dominica,2,1,0,1
+74,JPN,2020,Guinea-Bissau,5,3,0,1
+75,JPN,2020,Haiti,10,7,0,0
+76,JPN,2020,Liberia,2,1,0,1
+77,JPN,2020,Iceland,8,4,0,2
+78,JPN,2020,India,112,15,2,3
+79,JPN,2020,Individual Olympic Athletes,9,3,2,1
+80,JPN,2020,Indonesia,28,7,4,5
+81,JPN,2020,Iran,63,15,8,8
+82,JPN,2020,Iraq,20,5,0,1
+83,JPN,2020,Ireland,76,14,3,5
+84,JPN,2020,Israel,47,16,2,5
+85,JPN,2020,Italy,309,26,72,65
+86,JPN,2020,Honduras,23,7,0,1
+87,JPN,2020,Djibouti,7,3,0,1
+88,JPN,2020,Ivory Coast,12,6,2,1
+89,JPN,2020,Jordan,8,6,1,1
+90,JPN,2020,Kazakhstan,101,19,18,14
+91,JPN,2020,Kenya,79,7,13,14
+92,JPN,2020,Kiribati,3,2,0,1
+93,JPN,2020,Kosovo,8,5,1,1
+94,JPN,2020,Kyrgyzstan,19,6,0,1
+95,JPN,2020,Laos,5,4,0,1
+96,JPN,2020,Latvia,32,12,0,2
+97,JPN,2020,Lebanon,9,7,0,1
+98,JPN,2020,Jamaica,56,4,30,30
+99,JPN,2020,Japan,335,32,64,71
+100,JPN,2020,France,392,32,96,91
+101,JPN,2020,Lesotho,8,3,0,1
+102,JPN,2020,Libya,7,6,0,1
+103,JPN,2020,Lithuania,67,15,7,9
+104,JPN,2020,Madagascar,6,4,0,0
+105,JPN,2020,Malawi,5,3,0,0
+106,JPN,2020,Malaysia,32,10,8,6
+107,JPN,2020,Maldives,4,2,0,1
+108,JPN,2020,Mali,6,4,0,1
+109,JPN,2020,Malta,7,4,0,0
+110,JPN,2020,Marshall Islands,5,3,0,1
+111,JPN,2020,Mauritania,2,1,0,1
+112,JPN,2020,Mauritius,11,7,0,0
+113,JPN,2020,Mexico,123,27,5,10
+114,JPN,2020,Micronesia,5,3,0,1
+115,JPN,2020,Moldova,23,9,0,1
+116,JPN,2020,Monaco,3,3,0,0
+117,JPN,2020,Mongolia,43,9,2,3
+118,JPN,2020,Montenegro,35,7,0,10
+119,JPN,2020,Morocco,48,13,1,4
+120,JPN,2020,Mozambique,6,4,0,1
+121,JPN,2020,Myanmar,7,5,0,0
+122,JPN,2020,Namibia,10,4,0,1
+123,JPN,2020,Nepal,7,5,0,1
+124,JPN,2020,Rwanda,7,3,0,1
+125,JPN,2020,Nauru,2,2,0,1
+126,JPN,2020,Macedonia,6,4,0,1
+127,JPN,2020,Netherlands,237,23,47,58
+128,JPN,2020,Palau,5,4,0,0
+129,JPN,2020,Palestine,6,4,0,1
+130,JPN,2020,Pakistan,7,4,0,0
+131,JPN,2020,Nicaragua,5,4,0,1
+132,JPN,2020,North Korea,30,9,7,6
+133,JPN,2020,Nigeria,71,10,18,13
+134,JPN,2020,Niger,6,4,1,0
+135,JPN,2020,Panama,10,7,0,1
+136,JPN,2020,Norway,62,13,19,18
+137,JPN,2020,Papua New Guinea,8,6,0,1
+138,JPN,2020,Saint Kitts,6,1,0,0
+139,JPN,2020,Luxembourg,10,5,0,1
+140,JPN,2020,Philippines,13,8,1,1
+141,JPN,2020,Poland,234,24,16,15
+142,JPN,2020,Portugal,90,17,1,2
+143,JPN,2020,Puerto Rico,40,15,1,1
+144,JPN,2020,Qatar,37,10,1,2
+145,JPN,2020,Republic of Congo,10,5,0,1
+146,JPN,2020,Romania,95,15,16,23
+147,JPN,2020,New Zealand,195,20,36,30
+148,JPN,2020,Russia,284,29,115,113
+149,JPN,2020,Paraguay,11,7,0,2
+150,JPN,2020,Peru,29,11,0,1
+151,JPN,2020,American Samoa,4,3,0,1
+152,JPN,2020,South Korea,207,26,26,39
+153,JPN,2020,Tunisia,61,17,3,5
+154,JPN,2020,Sao Tome and Principe,3,2,0,1
+155,JPN,2020,Saudi Arabia,10,5,0,1
+156,JPN,2020,Senegal,22,8,0,0
+157,JPN,2020,Serbia,103,14,54,34
+158,JPN,2020,Seychelles,10,6,0,1
+159,JPN,2020,Sierra Leone,4,2,0,1
+160,JPN,2020,Slovakia,51,12,8,6
+161,JPN,2020,Zimbabwe,30,7,0,4
+162,JPN,2020,Saint Lucia,5,3,0,1
+163,JPN,2020,Zambia,7,4,0,1
+164,JPN,2020,"Virgin Islands, US",7,4,0,1
+165,JPN,2020,"Virgin Islands, British",4,2,0,1
+166,JPN,2020,Vietnam,22,10,2,1
+167,JPN,2020,Venezuela,85,20,3,4
+168,JPN,2020,Vanuatu,4,4,0,1
+169,JPN,2020,Uzbekistan,70,15,13,4
+170,JPN,2020,Uruguay,17,8,0,1
+171,JPN,2020,United Arab Emirates,12,6,1,1
+172,JPN,2020,Ukraine,204,24,15,20
+173,JPN,2020,Uganda,21,3,0,1
+174,JPN,2020,Yemen,3,3,0,0
+175,JPN,2020,San Marino,4,2,0,1
+176,JPN,2020,Samoa,8,5,0,0
+177,JPN,2020,USA,555,33,264,258
+178,JPN,2020,UK,360,26,145,64
+179,JPN,2020,Trinidad,28,8,1,4
+180,JPN,2020,Tonga,7,4,0,1
+181,JPN,2020,Togo,5,3,0,1
+182,JPN,2020,Timor-Leste,3,2,0,1
+183,JPN,2020,Thailand,54,15,6,6
+184,JPN,2020,Tanzania,7,3,0,1
+185,JPN,2020,Tajikistan,7,4,1,2
+186,JPN,2020,Taiwan,55,18,5,8
+187,JPN,2020,Syria,7,5,0,1
+188,JPN,2020,Switzerland,102,17,11,10
+189,JPN,2020,Saint Vincent,4,2,0,0
+190,JPN,2020,Sweden,150,22,28,24
+191,JPN,2020,Suriname,6,4,0,0
+192,JPN,2020,Sudan,6,3,0,1
+193,JPN,2020,Sri Lanka,9,6,0,0
+194,JPN,2020,Spain,307,28,45,56
+195,JPN,2020,South Sudan,3,1,0,1
+196,JPN,2020,South Africa,135,15,23,6
+197,JPN,2020,Liechtenstein,3,2,0,0
+198,JPN,2020,Somalia,2,1,0,1
+199,JPN,2020,Turkey,100,21,8,11
+200,JPN,2020,Turkmenistan,9,5,0,0
+201,JPN,2020,Swaziland,2,1,0,0
+202,JPN,2020,Solomon Islands,3,2,0,1
